@@ -305,7 +305,7 @@
                      <ul id="c5a81427-815b-4859-bb44-e9779122a75c" class="bulleted-list">
                         <li style="list-style-type:disc">
                            Escreva o seguinte código e salve com o nome <code>primeiro-programa.go</code>:
-                           <pre id="98d5b117-cbf8-42ba-a404-116aa807f9eb" class="code"><code>package main
+                           <br><pre id="98d5b117-cbf8-42ba-a404-116aa807f9eb" class="code"><code>package main
 
 import (
 	"fmt"
@@ -357,7 +357,7 @@ func main() {
                      <ul id="8d1170fc-4ea7-4348-a371-1683b3c8dfdb" class="bulleted-list">
                         <li style="list-style-type:disc">
                            Declarações e expressões.
-                           <pre id="752b7bb7-e893-4bc8-a7f6-f30d9a71ff55" class="code"><code>// Pacote principal.
+                           <br><pre id="752b7bb7-e893-4bc8-a7f6-f30d9a71ff55" class="code"><code>// Pacote principal.
 package main
 
 // Importação de pacotes.
@@ -427,7 +427,7 @@ func main() {
                      <ul id="fe771796-13ef-4d78-887a-52cc8043d39e" class="bulleted-list">
                         <li style="list-style-type:disc">
                            Você até pode escrever um código como o abaixo, mas isso não é recomendado por <code>dificultar a legibilidade</code>.
-                           <pre id="70b62029-3783-48ad-b4f2-8a08a21224d1" class="code"><code>package main; import ("fmt"); func main() { fmt.Println("Hello, World!");}</code></pre>
+                           <br><pre id="70b62029-3783-48ad-b4f2-8a08a21224d1" class="code"><code>package main; import ("fmt"); func main() { fmt.Println("Hello, World!");}</code></pre>
                         </li>
                      </ul>
                      <hr id="ac934e42-b516-49cd-a078-76a35cade45a"/>
@@ -464,7 +464,7 @@ func main() {
                      <ul id="f2a851f7-ebd3-458a-bb1e-3584bd3e324d" class="bulleted-list">
                         <li style="list-style-type:disc">Qualquer texto entre <code>//</code> e o <code>final da linha</code> será ignorado pelo compilador.</li>
                      </ul>
-                     <pre id="c7a10193-9f9b-4349-8cda-9251b1762dcf" class="code"><code>// Isto é um comentário.
+                     <br><pre id="c7a10193-9f9b-4349-8cda-9251b1762dcf" class="code"><code>// Isto é um comentário.
 package main
 
 import (
@@ -490,7 +490,7 @@ func main() {
                      <ul id="9e1bea04-6593-4345-b39a-a1e51d5e3a4a" class="bulleted-list">
                         <li style="list-style-type:disc">Qualquer coisa entre <code>/*</code> e <code>*/</code> não será executada.</li>
                      </ul>
-                     <pre id="9b1ea040-6e9f-40d7-8f46-c29f6448afb9" class="code"><code>package main
+                     <br><pre id="9b1ea040-6e9f-40d7-8f46-c29f6448afb9" class="code"><code>package main
 
 import (
 	"fmt"
@@ -515,7 +515,7 @@ func main() {
                      <ul id="d22a0f3b-5dfe-4377-9292-914f7c91ec52" class="bulleted-list">
                         <li style="list-style-type:disc">Os comentários podem ser usados para <code>evitar a execução</code> de um código, quando estamos testando um código alternativo.</li>
                      </ul>
-                     <pre id="71067a8f-3566-417c-ac93-d175f47223f0" class="code"><code>package main
+                     <br><pre id="71067a8f-3566-417c-ac93-d175f47223f0" class="code"><code>package main
 
 import (
 	"fmt"
@@ -594,7 +594,7 @@ func main() {
                   <details open="">
                      <summary><strong>Declaração com valor inicial </strong>🆗</summary>
                      <h2 id="c2a7a18b-c3e7-4312-8b03-3f59bef4f72d" class=""><strong>Declaração com valor inicial</strong></h2>
-                     <pre id="686f558d-c038-45c7-abff-12e13ec630f3" class="code"><code>package main
+                     <br><pre id="686f558d-c038-45c7-abff-12e13ec630f3" class="code"><code>package main
 
 import (
 	"fmt"
@@ -624,7 +624,7 @@ func main() {
                      <ul id="f8a5b5bc-6b66-4350-ad86-967f4ab64146" class="bulleted-list">
                         <li style="list-style-type:disc">Se você declarar um variável mas não a inicializar, ela será automaticamente inicializada com o <code>valor zero padrão</code> do seu tipo.</li>
                      </ul>
-                     <pre id="85b6906c-726c-4d8f-820c-d3c2979ed060" class="code"><code>package main
+                     <br><pre id="85b6906c-726c-4d8f-820c-d3c2979ed060" class="code"><code>package main
 
 import (
 	"fmt"
@@ -653,7 +653,7 @@ func main() {
                      <ul id="f3d82ea0-17aa-46a2-b077-15d5429c1284" class="bulleted-list">
                         <li style="list-style-type:disc">Só é possível usando o <code>var</code>. Com <mark class="highlight-blue"><code>:=</code></mark> não dá.</li>
                      </ul>
-                     <pre id="ee36473b-962e-4ec0-a896-0e0bab935bd1" class="code"><code>package main
+                     <br><pre id="ee36473b-962e-4ec0-a896-0e0bab935bd1" class="code"><code>package main
 
 import (
 	"fmt"
@@ -685,7 +685,7 @@ func main() {
                      <ul id="65cdda23-c999-48e9-aeef-5293d88d2ccc" class="bulleted-list">
                         <li style="list-style-type:disc">A declaração com <code>:=</code> <mark class="highlight-red"><strong>não</strong></mark> permite posterior inicialização.</li>
                      </ul>
-                     <pre id="ee5fa6d6-9e56-4a38-b1c6-97cfbb610ac4" class="code"><code>package main
+                     <br><pre id="ee5fa6d6-9e56-4a38-b1c6-97cfbb610ac4" class="code"><code>package main
 
 import (
 	"fmt"
@@ -716,7 +716,7 @@ func main() {
                      <ul id="aaacda12-1ede-4219-800a-e00131a9c0dc" class="bulleted-list">
                         <li style="list-style-type:disc">Se o <code>tipo</code> for especificado, só pode declarar aquele tipo na linha.</li>
                      </ul>
-                     <pre id="9151b2d1-4625-41f4-a17b-2e7aba9026b0" class="code"><code>package main
+                     <br><pre id="9151b2d1-4625-41f4-a17b-2e7aba9026b0" class="code"><code>package main
 
 import (
 	"fmt"
@@ -829,7 +829,7 @@ func main() {
                   <details open="">
                      <summary><strong>Declaração </strong>🆗</summary>
                      <h2 id="33d5e7c6-e1a5-48aa-a7cc-00d752c5e84d" class="">Declaração</h2>
-                     <pre id="efaf4a8c-ce3b-42ae-91d9-301711983ff0" class="code"><code>package main
+                     <br><pre id="efaf4a8c-ce3b-42ae-91d9-301711983ff0" class="code"><code>package main
 
 import (
 	"fmt"
@@ -873,7 +873,7 @@ func main() {
                      <ul id="3cbe8de5-b171-48de-8b4f-221d50ef4d91" class="bulleted-list">
                         <li style="list-style-type:disc">Constantes <code>não tipadas</code>: declarada sem um tipo definido.</li>
                      </ul>
-                     <pre id="99b21442-ae02-49d7-8ef1-39fa34707c65" class="code"><code>// Constante tipada.
+                     <br><pre id="99b21442-ae02-49d7-8ef1-39fa34707c65" class="code"><code>// Constante tipada.
 const A int = 1
 // Constante não tipada.
 const B = 2
@@ -891,7 +891,7 @@ const B = 2
                      <ul id="8959ef68-08be-4a16-b344-175badee34f5" class="bulleted-list">
                         <li style="list-style-type:disc">Quando uma constante é declarada, <mark class="highlight-red"><span style="border-bottom:0.05em solid">não</span></mark> é possível <code>alterar</code> o valor posteriormente.</li>
                      </ul>
-                     <pre id="43844c8e-ac15-46aa-8d0e-f38fa293e6c6" class="code"><code>const A = 1
+                     <br><pre id="43844c8e-ac15-46aa-8d0e-f38fa293e6c6" class="code"><code>const A = 1
 A = 2</code></pre>
                      <p id="7524c2c6-3dec-4585-965a-808577a9865e" class=""></p>
                      <hr id="1380f08e-6f2f-4f6d-8eac-006cda7137fa"/>
@@ -903,7 +903,7 @@ A = 2</code></pre>
                   <details open="">
                      <summary><strong>Declaração múltipla</strong></summary>
                      <h2 id="fe574615-4a0b-464a-a69f-a71cc3bea361" class="">Declaração múltipla</h2>
-                     <pre id="c71007a5-f019-4915-a249-ef7ace2c878b" class="code"><code>const (
+                     <br><pre id="c71007a5-f019-4915-a249-ef7ace2c878b" class="code"><code>const (
 	A int = 1
 	B = 2.0
 	C = "três"
@@ -922,7 +922,7 @@ A = 2</code></pre>
                      <ul id="ae6cc6f0-5aef-4ccd-ac5f-cf2b5f8a171b" class="bulleted-list">
                         <li style="list-style-type:disc">Função que imprime os argumentos com seu <code>formato padrão</code></li>
                      </ul>
-                     <pre id="9d416699-77e1-4e6a-a48d-b2bb42833280" class="code"><code>package main
+                     <br><pre id="9d416699-77e1-4e6a-a48d-b2bb42833280" class="code"><code>package main
 
 import (
 	"fmt"
@@ -949,7 +949,7 @@ func main() {
                      <ul id="55c14a98-0152-4541-9353-2546263a9c6f" class="bulleted-list">
                         <li style="list-style-type:disc">Cria <code>novas linhas</code>.</li>
                      </ul>
-                     <pre id="9fd46321-7c1d-4fce-9c56-214e48dfa663" class="code"><code>package main
+                     <br><pre id="9fd46321-7c1d-4fce-9c56-214e48dfa663" class="code"><code>package main
 
 import (
 	"fmt"
@@ -976,7 +976,7 @@ func main() {
                   <details open="">
                      <summary><strong>Um Print() com várias variáveis</strong></summary>
                      <h2 id="41171d65-f000-47af-9938-11baf5d33f8f" class=""><strong>Um Print() com várias variáveis</strong></h2>
-                     <pre id="f29f4dd6-b101-411f-bec9-a42036e91db0" class="code"><code>package main
+                     <br><pre id="f29f4dd6-b101-411f-bec9-a42036e91db0" class="code"><code>package main
 
 import (
 	"fmt"
@@ -1006,7 +1006,7 @@ func main() {
                      <ul id="5a641354-4cdf-4e4e-951a-c3ad246ffc08" class="bulleted-list">
                         <li style="list-style-type:disc">Insere um <code>espaço</code> entre as duas variáveis.</li>
                      </ul>
-                     <pre id="14e5090d-b743-47df-9d5f-41098b784941" class="code"><code>var i, j int = 1, 2
+                     <br><pre id="14e5090d-b743-47df-9d5f-41098b784941" class="code"><code>var i, j int = 1, 2
 fmt.Print(i, j)</code></pre>
                      <ul id="d4881df9-d85b-4299-abb1-e2b93d44a186" class="bulleted-list">
                         <li style="list-style-type:disc"><strong>Saída:</strong> 1 2</li>
@@ -1026,7 +1026,7 @@ fmt.Print(i, j)</code></pre>
                      <ul id="9be53bcc-7312-42b4-ad46-6cd50bc8d20e" class="bulleted-list">
                         <li style="list-style-type:disc">Uma <code>linha nova</code> é adicionada no final.</li>
                      </ul>
-                     <pre id="0dcc2434-b8ee-4d8c-b658-591f18b821d0" class="code"><code>package main
+                     <br><pre id="0dcc2434-b8ee-4d8c-b658-591f18b821d0" class="code"><code>package main
 
 import (
 	"fmt"
@@ -1058,7 +1058,7 @@ func main() {
                      <ul id="66c13f6c-f745-4d4a-848a-0c72d974ffe9" class="bulleted-list">
                         <li style="list-style-type:disc"><code>%T</code> imprime o tipo do argumento.</li>
                      </ul>
-                     <pre id="c493f306-eeef-4006-aba6-adad27233c7f" class="code"><code>var i string = "Hello, World!"
+                     <br><pre id="c493f306-eeef-4006-aba6-adad27233c7f" class="code"><code>var i string = "Hello, World!"
 var j int = 1
 
 fmt.Printf("Valor do i: %v. Tipo do i: %T.\n", i, i)
@@ -1091,7 +1091,7 @@ fmt.Printf("Valor do j: %v. Tipo do j: %T.", j, j)</code></pre>
                      <ul id="bfcee552-6d72-4bf2-a498-94ce4ff6b502" class="bulleted-list">
                         <li style="list-style-type:disc"><code>%%</code> imprime %.</li>
                      </ul>
-                     <pre id="770a1e93-04c0-494c-9d8d-9a147e8eb955" class="code"><code>var i = 100
+                     <br><pre id="770a1e93-04c0-494c-9d8d-9a147e8eb955" class="code"><code>var i = 100
 var j = "Oi"
 
 fmt.Printf("%v\n", i)
