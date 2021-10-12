@@ -308,11 +308,11 @@
                            <pre id="98d5b117-cbf8-42ba-a404-116aa807f9eb" class="code"><code>package main
 
 import (
-	&quot;fmt&quot;
+	"fmt"
 )
 
 func main() {
-	fmt.Println(&quot;Hello, World!&quot;)
+	fmt.Println("Hello, World!")
 }</code></pre>
                         </li>
                      </ul>
@@ -362,13 +362,13 @@ package main
 
 // Importação de pacotes.
 import (
-	&quot;fmt&quot;
+	"fmt"
 )
 
 // Função principal.
 func main() {
 	// Declaração de impressão de uma mensagem na tela.
-	fmt.Println(&quot;Hello, World!&quot;)
+	fmt.Println("Hello, World!")
 }</code></pre>
                            <figure id="5d2c361e-9690-475e-b308-2d2adcf89224" class="image"><a href="images/Screenshot_from_2021-10-09_12-39-56.png"><br><img style="width:116px" src="images/Screenshot_from_2021-10-09_12-39-56.png"/></a></figure>
                         </li>
@@ -401,7 +401,7 @@ func main() {
                      <summary><strong>Declarações </strong>🆗</summary>
                      <h2 id="47e2efc3-a923-4a8f-b8ef-271b93793af4" class=""><strong>Declarações</strong></h2>
                      <ul id="997d5997-6db9-4c6e-815e-6efae31baf68" class="bulleted-list">
-                        <li style="list-style-type:disc"><code>fmt.Println(&quot;Hello, World!&quot;)</code> é uma declaração.</li>
+                        <li style="list-style-type:disc"><code>fmt.Println("Hello, World!")</code> é uma declaração.</li>
                      </ul>
                      <ul id="d4194881-b53e-4744-941b-8f9fbd4c65d1" class="bulleted-list">
                         <li style="list-style-type:disc">Em Go, as declarações são separadas pela quebra de linha (<code>Enter</code>) ou por um ponto e vírgula (<code>;</code>).</li>
@@ -427,7 +427,7 @@ func main() {
                      <ul id="fe771796-13ef-4d78-887a-52cc8043d39e" class="bulleted-list">
                         <li style="list-style-type:disc">
                            Você até pode escrever um código como o abaixo, mas isso não é recomendado por <code>dificultar a legibilidade</code>.
-                           <pre id="70b62029-3783-48ad-b4f2-8a08a21224d1" class="code"><code>package main; import (&quot;fmt&quot;); func main() { fmt.Println(&quot;Hello, World!&quot;);}</code></pre>
+                           <pre id="70b62029-3783-48ad-b4f2-8a08a21224d1" class="code"><code>package main; import ("fmt"); func main() { fmt.Println("Hello, World!");}</code></pre>
                         </li>
                      </ul>
                      <hr id="ac934e42-b516-49cd-a078-76a35cade45a"/>
@@ -468,11 +468,11 @@ func main() {
 package main
 
 import (
-	&quot;fmt&quot;
+	"fmt"
 )
 
 func main() {
-	fmt.Println(&quot;Hello, World!&quot;) // Isto é outro exemplo de comentário.
+	fmt.Println("Hello, World!") // Isto é outro exemplo de comentário.
 }</code></pre>
                      <figure id="a07725db-beb2-42a8-ab8b-13088caba3a9" class="image"><a href="images/Screenshot_from_2021-10-09_12-39-56.png"><br><img style="width:116px" src="images/Screenshot_from_2021-10-09_12-39-56.png"/></a></figure>
                      <hr id="9d79e4f3-7ca5-416e-84fb-6f4b1037b5f1"/>
@@ -493,14 +493,14 @@ func main() {
                      <pre id="9b1ea040-6e9f-40d7-8f46-c29f6448afb9" class="code"><code>package main
 
 import (
-	&quot;fmt&quot;
+	"fmt"
 )
 
 func main() {
 	/* Isto é um 
 	comentário 
 	multilina. */
-	fmt.Println(&quot;Hello, World!&quot;)
+	fmt.Println("Hello, World!")
 }</code></pre>
                      <figure id="e3c1659e-906d-4e45-a4e5-09f8108a1c9f" class="image"><a href="images/Screenshot_from_2021-10-09_12-39-56.png"><br><img style="width:116px" src="images/Screenshot_from_2021-10-09_12-39-56.png"/></a></figure>
                      <hr id="c4817cb6-09c5-4bbf-8441-1608f259617c"/>
@@ -518,12 +518,12 @@ func main() {
                      <pre id="71067a8f-3566-417c-ac93-d175f47223f0" class="code"><code>package main
 
 import (
-	&quot;fmt&quot;
+	"fmt"
 )
 
 func main() {
-	// fmt.Println(&quot;Hello, World!&quot;)
-	fmt.Println(&quot;Olá, Mundo!&quot;)
+	// fmt.Println("Hello, World!")
+	fmt.Println("Olá, Mundo!")
 }</code></pre>
                      <figure id="6d4c64b3-4bdf-42e5-84f0-c855af5cb371" class="image"><a href="images/Screenshot_from_2021-10-09_15-09-19.png"><br><img style="width:150px" src="images/Screenshot_from_2021-10-09_15-09-19.png"/></a></figure>
                      <hr id="0fb07c9a-d498-4f44-a830-ab53a2c6136f"/>
@@ -597,12 +597,12 @@ func main() {
                      <pre id="686f558d-c038-45c7-abff-12e13ec630f3" class="code"><code>package main
 
 import (
-	&quot;fmt&quot;
+	"fmt"
 )
 
 func main() {
-	var um string = &quot;um&quot; // tipo string
-	var dois = &quot;dois&quot;    // tipo inferido
+	var um string = "um" // tipo string
+	var dois = "dois"    // tipo inferido
 	tres := 3            // tipo inferido
 
 	fmt.Println(um)
@@ -627,11 +627,11 @@ func main() {
                      <pre id="85b6906c-726c-4d8f-820c-d3c2979ed060" class="code"><code>package main
 
 import (
-	&quot;fmt&quot;
+	"fmt"
 )
 
 func main() {
-	var a string  // &quot;&quot;
+	var a string  // ""
 	var b int     // 0
 	var c float32 // 0
 	var d bool    // false
@@ -656,12 +656,12 @@ func main() {
                      <pre id="ee36473b-962e-4ec0-a896-0e0bab935bd1" class="code"><code>package main
 
 import (
-	&quot;fmt&quot;
+	"fmt"
 )
 
 func main() {
 	var meuNome string
-	meuNome = &quot;Felipe&quot;
+	meuNome = "Felipe"
 	fmt.Println(meuNome)
 }</code></pre>
                      <hr id="c6079b78-c091-4b17-963f-c8679ddf6031"/>
@@ -688,16 +688,16 @@ func main() {
                      <pre id="ee5fa6d6-9e56-4a38-b1c6-97cfbb610ac4" class="code"><code>package main
 
 import (
-	&quot;fmt&quot;
+	"fmt"
 )
 
-var fora = &quot;fora&quot;
-var tipado string = &quot;tipado&quot;
+var fora = "fora"
+var tipado string = "tipado"
 var depois string
 
 func main() {
-	depois = &quot;depois&quot;
-	dentro := &quot;dentro&quot;
+	depois = "depois"
+	dentro := "dentro"
 
 	fmt.Println(fora)
 	fmt.Println(tipado)
@@ -719,7 +719,7 @@ func main() {
                      <pre id="9151b2d1-4625-41f4-a17b-2e7aba9026b0" class="code"><code>package main
 
 import (
-	&quot;fmt&quot;
+	"fmt"
 )
 
 func main() {
@@ -729,8 +729,8 @@ func main() {
 	fmt.Println(a, b, c, d)
 
 	// Tipo inferido.
-	var e, f = 5, &quot;seis&quot;
-	g, h := &quot;sete&quot;, 8
+	var e, f = 5, "seis"
+	g, h := "sete", 8
 
 	fmt.Println(e, f, g, h)
 
@@ -738,8 +738,8 @@ func main() {
 	var (
 		i int    = 9
 		j        = 10
-		k string = &quot;onze&quot;
-		l        = &quot;doze&quot;
+		k string = "onze"
+		l        = "doze"
 	)
 
 	fmt.Println(i, j, k, l)
@@ -832,7 +832,7 @@ func main() {
                      <pre id="efaf4a8c-ce3b-42ae-91d9-301711983ff0" class="code"><code>package main
 
 import (
-	&quot;fmt&quot;
+	"fmt"
 )
 
 const PI = 3.14
@@ -906,7 +906,7 @@ A = 2</code></pre>
                      <pre id="c71007a5-f019-4915-a249-ef7ace2c878b" class="code"><code>const (
 	A int = 1
 	B = 2.0
-	C = &quot;três&quot;
+	C = "três"
 )</code></pre>
                      <p id="0d82f455-88d0-4cd9-bf00-e45cfa34e1f8" class=""></p>
                      <hr id="ba8f7bde-366d-4a4f-8d64-4263f4fe081d"/>
@@ -925,11 +925,11 @@ A = 2</code></pre>
                      <pre id="9d416699-77e1-4e6a-a48d-b2bb42833280" class="code"><code>package main
 
 import (
-	&quot;fmt&quot;
+	"fmt"
 )
 
 func main() {
-	var i, j string = &quot;Hello&quot;, &quot;World&quot;
+	var i, j string = "Hello", "World"
 
 	fmt.Print(i)
 	fmt.Print(j)
@@ -952,11 +952,11 @@ func main() {
                      <pre id="9fd46321-7c1d-4fce-9c56-214e48dfa663" class="code"><code>package main
 
 import (
-	&quot;fmt&quot;
+	"fmt"
 )
 
 func main() {
-	var i, j string = &quot;Hello&quot;, &quot;World&quot;
+	var i, j string = "Hello", "World"
 
 	fmt.Print(i, "\n")
 	fmt.Print(j, "\n")
@@ -979,11 +979,11 @@ func main() {
                      <pre id="f29f4dd6-b101-411f-bec9-a42036e91db0" class="code"><code>package main
 
 import (
-	&quot;fmt&quot;
+	"fmt"
 )
 
 func main() {
-	var i, j string = &quot;Hello&quot;, &quot;World&quot;
+	var i, j string = "Hello", "World"
 
 	fmt.Print(i, "\n", j)
 	fmt.Print(i, " ", j)
@@ -1029,11 +1029,11 @@ fmt.Print(i, j)</code></pre>
                      <pre id="0dcc2434-b8ee-4d8c-b658-591f18b821d0" class="code"><code>package main
 
 import (
-	&quot;fmt&quot;
+	"fmt"
 )
 
 func main() {
-	var i, j string = &quot;Hello&quot;, &quot;World&quot;
+	var i, j string = "Hello", "World"
 
 	fmt.Println(i, j)
 }</code></pre>
@@ -1058,11 +1058,11 @@ func main() {
                      <ul id="66c13f6c-f745-4d4a-848a-0c72d974ffe9" class="bulleted-list">
                         <li style="list-style-type:disc"><code>%T</code> imprime o tipo do argumento.</li>
                      </ul>
-                     <pre id="c493f306-eeef-4006-aba6-adad27233c7f" class="code"><code>var i string = &quot;Hello, World!&quot;
+                     <pre id="c493f306-eeef-4006-aba6-adad27233c7f" class="code"><code>var i string = "Hello, World!"
 var j int = 1
 
-fmt.Printf(&quot;Valor do i: %v. Tipo do i: %T.\n&quot;, i, i)
-fmt.Printf(&quot;Valor do j: %v. Tipo do j: %T.&quot;, j, j)</code></pre>
+fmt.Printf("Valor do i: %v. Tipo do i: %T.\n", i, i)
+fmt.Printf("Valor do j: %v. Tipo do j: %T.", j, j)</code></pre>
                      <ul id="58a0c321-307d-42af-884b-64f0a700803e" class="bulleted-list">
                         <li style="list-style-type:disc"><strong>Saída:</strong>
                            Valor do i: Hello, World!. Tipo do i: string.
@@ -1092,16 +1092,16 @@ fmt.Printf(&quot;Valor do j: %v. Tipo do j: %T.&quot;, j, j)</code></pre>
                         <li style="list-style-type:disc"><code>%%</code> imprime %.</li>
                      </ul>
                      <pre id="770a1e93-04c0-494c-9d8d-9a147e8eb955" class="code"><code>var i = 100
-var j = &quot;Oi&quot;
+var j = "Oi"
 
-fmt.Printf(&quot;%v\n&quot;, i)
-fmt.Printf(&quot;%#v\n&quot;, i)
-fmt.Printf(&quot;%T\n&quot;, i)
-fmt.Printf(&quot;%v%%\n&quot;, i)
+fmt.Printf("%v\n", i)
+fmt.Printf("%#v\n", i)
+fmt.Printf("%T\n", i)
+fmt.Printf("%v%%\n", i)
 
-fmt.Printf(&quot;%v\n&quot;, j)
-fmt.Printf(&quot;%#v\n&quot;, j)
-fmt.Printf(&quot;%T\n&quot;, j)</code></pre>
+fmt.Printf("%v\n", j)
+fmt.Printf("%#v\n", j)
+fmt.Printf("%T\n", j)</code></pre>
                      <ul id="4ad2877f-3923-4603-b060-1e6bacaf658c" class="bulleted-list">
                         <li style="list-style-type:disc"><strong>Saída:</strong>
                            100
@@ -1109,7 +1109,7 @@ fmt.Printf(&quot;%T\n&quot;, j)</code></pre>
                            int
                            100%
                            Oi
-                           &quot;Oi&quot;
+                           "Oi"
                            string
                         </li>
                      </ul>
