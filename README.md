@@ -2,7 +2,7 @@
    <body>
       <article id="d8f09b2a-89e7-41fb-b2a7-b7e3550022df" class="page mono">
          <header>
-            <div class="page-header-icon undefined"><br><img class="icon" src="https://miro.medium.com/max/500/1*vmFSpk9xtpxAHkH7cmt-3Q.png" height="200"/></div>
+            <div class="page-header-icon undefined"><img class="icon" src="https://miro.medium.com/max/500/1*vmFSpk9xtpxAHkH7cmt-3Q.png" height="200"/></div>
             <h1 class="page-title">Go</h1>
             <table class="properties">
                <tbody>
@@ -37,7 +37,7 @@
                         </span>
                         Source
                      </th>
-                     <td><span class="selected-value select-value-color-gray">W3Schools</span></td>
+                     <td><span class="selected-value select-value-color-default">W3Schools</span></td>
                   </tr>
                   <tr class="property-row property-row-select">
                      <th>
@@ -221,7 +221,7 @@
                      <ul id="faf4e6fd-fd95-40c3-9d55-e5484b2989b0" class="bulleted-list">
                         <li style="list-style-type:disc">
                            Para verificar se o Go foi instalado com sucesso, execute o comando <code>go version</code> na linha de comando do seu sistema operacional.
-                           <figure id="5211a78a-cf6e-4f5d-a5f9-49f77fa60a77" class="image"><a href="images/Screenshot_from_2021-10-09_11-05-38.png"><br><img style="width:336px" src="images/Screenshot_from_2021-10-09_11-05-38.png"/></a></figure>
+                           <br><figure id="5211a78a-cf6e-4f5d-a5f9-49f77fa60a77" class="image"><a href="Go%205211a78acf6e4f5da5f949f77fa60a77/Screenshot_from_2021-10-09_11-05-38.png"><img style="width:336px" src="Go%205211a78acf6e4f5da5f949f77fa60a77/Screenshot_from_2021-10-09_11-05-38.png"/></a></figure>
                         </li>
                      </ul>
                      <hr id="6ab466a5-2dfe-4282-bd69-1446efb79d13"/>
@@ -257,7 +257,7 @@
                      <ul id="bdd3e1ad-7daa-4bdf-8b9c-abf991228984" class="bulleted-list">
                         <li style="list-style-type:disc">
                            Encontre e instale a extensão <code>Go</code> desenvolvida pelo <code>Go Team at Google</code>.
-                           <figure id="9806e23d-1d1b-4667-9c13-44a8e28f849a" class="image"><a href="images/Screenshot_from_2021-10-09_11-20-20.png"><br><img style="width:672px" src="images/Screenshot_from_2021-10-09_11-20-20.png"/></a></figure>
+                           <br><figure id="9806e23d-1d1b-4667-9c13-44a8e28f849a" class="image"><a href="Go%205211a78acf6e4f5da5f949f77fa60a77/Screenshot_from_2021-10-09_11-20-20.png"><img style="width:672px" src="Go%205211a78acf6e4f5da5f949f77fa60a77/Screenshot_from_2021-10-09_11-20-20.png"/></a></figure>
                         </li>
                      </ul>
                      <ul id="8382669f-18ac-4ff4-ba7d-e82d0de67a38" class="bulleted-list">
@@ -266,13 +266,13 @@
                      <ul id="34e78391-4d34-4fdf-b834-cb7dcaf63eaf" class="bulleted-list">
                         <li style="list-style-type:disc">
                            Pesquise e execute <code>Go: Install/Update Tools</code>.
-                           <figure id="fd5ec7b2-9645-49c6-b31f-daee5aa480ad" class="image"><a href="images/Screenshot_from_2021-10-09_11-24-18.png"><br><img style="width:672px" src="images/Screenshot_from_2021-10-09_11-24-18.png"/></a></figure>
+                           <br><figure id="fd5ec7b2-9645-49c6-b31f-daee5aa480ad" class="image"><a href="Go%205211a78acf6e4f5da5f949f77fa60a77/Screenshot_from_2021-10-09_11-24-18.png"><img style="width:672px" src="Go%205211a78acf6e4f5da5f949f77fa60a77/Screenshot_from_2021-10-09_11-24-18.png"/></a></figure>
                         </li>
                      </ul>
                      <ul id="f9bcdacc-86b8-45a2-967d-06402189932e" class="bulleted-list">
                         <li style="list-style-type:disc">
                            Selecione <code>todas</code> as ferramentas (marque todos as caixas de seleção) e clique em OK.
-                           <figure id="4fd36f8f-b9d0-4568-a034-fff38ace3a01" class="image"><a href="images/Screenshot_from_2021-10-09_11-24-29.png"><br><img style="width:672px" src="images/Screenshot_from_2021-10-09_11-24-29.png"/></a></figure>
+                           <br><figure id="4fd36f8f-b9d0-4568-a034-fff38ace3a01" class="image"><a href="Go%205211a78acf6e4f5da5f949f77fa60a77/Screenshot_from_2021-10-09_11-24-29.png"><img style="width:672px" src="Go%205211a78acf6e4f5da5f949f77fa60a77/Screenshot_from_2021-10-09_11-24-29.png"/></a></figure>
                         </li>
                      </ul>
                      <ul id="05c6d240-7f67-4af4-b5dc-efb70dd8dfed" class="bulleted-list">
@@ -293,19 +293,19 @@
                      <ul id="6fd967cf-520a-4296-8162-7c6d510be362" class="bulleted-list">
                         <li style="list-style-type:disc">
                            Digite <code>go mod init exemplo.com/primeiro-programa</code> e pressione <code>Enter</code>.
-                           <figure id="83d45e4e-c07a-4232-af55-10c5c2ec1bbc" class="image"><a href="images/Untitled.png"><br><img style="width:624px" src="images/Untitled.png"/></a></figure>
+                           <br><figure id="83d45e4e-c07a-4232-af55-10c5c2ec1bbc" class="image"><a href="Go%205211a78acf6e4f5da5f949f77fa60a77/Untitled.png"><img style="width:624px" src="Go%205211a78acf6e4f5da5f949f77fa60a77/Untitled.png"/></a></figure>
                         </li>
                      </ul>
                      <ul id="1ebaa499-11f9-42ef-8a90-6a3630fcfb97" class="bulleted-list">
                         <li style="list-style-type:disc">
                            Crie um novo arquivo <code>File &gt; New File</code> ou pressione <code>Ctrl + N</code>.
-                           <figure id="77c86d37-f9f9-478b-afcc-376e5ede3db9" class="image"><a href="images/Untitled%201.png"><br><img style="width:288px" src="images/Untitled%201.png"/></a></figure>
+                           <br><figure id="77c86d37-f9f9-478b-afcc-376e5ede3db9" class="image"><a href="Go%205211a78acf6e4f5da5f949f77fa60a77/Untitled%201.png"><img style="width:288px" src="Go%205211a78acf6e4f5da5f949f77fa60a77/Untitled%201.png"/></a></figure>
                         </li>
                      </ul>
                      <ul id="c5a81427-815b-4859-bb44-e9779122a75c" class="bulleted-list">
                         <li style="list-style-type:disc">
                            Escreva o seguinte código e salve com o nome <code>primeiro-programa.go</code>:
-                           <br><pre id="98d5b117-cbf8-42ba-a404-116aa807f9eb" class="code"><code>package main
+                           <pre id="98d5b117-cbf8-42ba-a404-116aa807f9eb" class="code"><code>package main
 
 import (
 	"fmt"
@@ -319,19 +319,19 @@ func main() {
                      <ul id="8708faf9-cfc5-48d7-81a6-0a4802152f33" class="bulleted-list">
                         <li style="list-style-type:disc">
                            Execute na linha de comando <code>go run primeiro-programa.go</code> para rodá-lo.
-                           <figure id="bcff5675-9c30-4149-8391-88d3480f3336" class="image"><a href="images/Untitled%202.png"><br><img style="width:624px" src="images/Untitled%202.png"/></a></figure>
+                           <br><figure id="bcff5675-9c30-4149-8391-88d3480f3336" class="image"><a href="Go%205211a78acf6e4f5da5f949f77fa60a77/Untitled%202.png"><img style="width:624px" src="Go%205211a78acf6e4f5da5f949f77fa60a77/Untitled%202.png"/></a></figure>
                         </li>
                      </ul>
                      <ul id="53c4b6b0-8ca5-4ac5-b705-2a005fcc05f0" class="bulleted-list">
                         <li style="list-style-type:disc">
                            Para criar um executável do seu programa, execute <code>go build primeiro-programa.go</code>.
-                           <figure id="56a53769-759a-4860-a9c6-0ec2d5c28842" class="image"><a href="images/Untitled%203.png"><br><img style="width:624px" src="images/Untitled%203.png"/></a></figure>
+                           <br><figure id="56a53769-759a-4860-a9c6-0ec2d5c28842" class="image"><a href="Go%205211a78acf6e4f5da5f949f77fa60a77/Untitled%203.png"><img style="width:624px" src="Go%205211a78acf6e4f5da5f949f77fa60a77/Untitled%203.png"/></a></figure>
                         </li>
                      </ul>
                      <ul id="d09ee28f-e3cb-407c-b9cd-3bb38cc75007" class="bulleted-list">
                         <li style="list-style-type:disc">
                            Para rodar o executável (no Linux) é preciso apenas executar <code>./primeiro-programa</code>.
-                           <figure id="504324fb-f784-4640-a46e-eb8ee5a3052d" class="image"><a href="images/Untitled%204.png"><br><img style="width:624px" src="images/Untitled%204.png"/></a></figure>
+                           <br><figure id="504324fb-f784-4640-a46e-eb8ee5a3052d" class="image"><a href="Go%205211a78acf6e4f5da5f949f77fa60a77/Untitled%204.png"><img style="width:624px" src="Go%205211a78acf6e4f5da5f949f77fa60a77/Untitled%204.png"/></a></figure>
                         </li>
                      </ul>
                      <hr id="d334fd9c-2c01-40c8-9475-489b7971619b"/>
@@ -357,7 +357,7 @@ func main() {
                      <ul id="8d1170fc-4ea7-4348-a371-1683b3c8dfdb" class="bulleted-list">
                         <li style="list-style-type:disc">
                            Declarações e expressões.
-                           <br><pre id="752b7bb7-e893-4bc8-a7f6-f30d9a71ff55" class="code"><code>// Pacote principal.
+                           <pre id="752b7bb7-e893-4bc8-a7f6-f30d9a71ff55" class="code"><code>// Pacote principal.
 package main
 
 // Importação de pacotes.
@@ -370,7 +370,7 @@ func main() {
 	// Declaração de impressão de uma mensagem na tela.
 	fmt.Println("Hello, World!")
 }</code></pre>
-                           <figure id="5d2c361e-9690-475e-b308-2d2adcf89224" class="image"><a href="images/Screenshot_from_2021-10-09_12-39-56.png"><br><img style="width:116px" src="images/Screenshot_from_2021-10-09_12-39-56.png"/></a></figure>
+                           <br><figure id="5d2c361e-9690-475e-b308-2d2adcf89224" class="image"><a href="Go%205211a78acf6e4f5da5f949f77fa60a77/Screenshot_from_2021-10-09_12-39-56.png"><img style="width:116px" src="Go%205211a78acf6e4f5da5f949f77fa60a77/Screenshot_from_2021-10-09_12-39-56.png"/></a></figure>
                         </li>
                      </ul>
                      <ul id="156cf168-0757-4851-9ae2-9b24e1d578fb" class="bulleted-list">
@@ -412,7 +412,7 @@ func main() {
                      <ul id="f901978d-60cf-420d-86d1-5cbbb5b28d7d" class="bulleted-list">
                         <li style="list-style-type:disc">
                            Portanto, a chave esquerda (<code>{</code>) não pode vir no início de uma linha de código.
-                           <figure id="419b62bb-0e30-4872-bb72-4e13707889aa" class="image"><a href="images/Untitled%205.png"><br><img style="width:816px" src="images/Untitled%205.png"/></a></figure>
+                           <br><figure id="419b62bb-0e30-4872-bb72-4e13707889aa" class="image"><a href="Go%205211a78acf6e4f5da5f949f77fa60a77/Untitled%205.png"><img style="width:816px" src="Go%205211a78acf6e4f5da5f949f77fa60a77/Untitled%205.png"/></a></figure>
                         </li>
                      </ul>
                      <hr id="4e759ee6-64c1-4f6e-a5c1-9bf90f165d35"/>
@@ -425,11 +425,9 @@ func main() {
                      <summary><strong>Código compacto </strong>🆗</summary>
                      <h2 id="76d9d0f0-11ff-4509-ba37-1fb86a9d2289" class="">Código compacto</h2>
                      <ul id="fe771796-13ef-4d78-887a-52cc8043d39e" class="bulleted-list">
-                        <li style="list-style-type:disc">
-                           Você até pode escrever um código como o abaixo, mas isso não é recomendado por <code>dificultar a legibilidade</code>.
-                           <br><pre id="70b62029-3783-48ad-b4f2-8a08a21224d1" class="code"><code>package main; import ("fmt"); func main() { fmt.Println("Hello, World!");}</code></pre>
-                        </li>
+                        <li style="list-style-type:disc">Você até pode escrever um código como o abaixo, mas isso não é recomendado por <code>dificultar a legibilidade</code>.</li>
                      </ul>
+                     <pre id="70b62029-3783-48ad-b4f2-8a08a21224d1" class="code"><code>package main; import ("fmt"); func main() { fmt.Println("Hello, World!");}</code></pre>
                      <hr id="ac934e42-b516-49cd-a078-76a35cade45a"/>
                   </details>
                </li>
@@ -464,7 +462,7 @@ func main() {
                      <ul id="f2a851f7-ebd3-458a-bb1e-3584bd3e324d" class="bulleted-list">
                         <li style="list-style-type:disc">Qualquer texto entre <code>//</code> e o <code>final da linha</code> será ignorado pelo compilador.</li>
                      </ul>
-                     <br><pre id="c7a10193-9f9b-4349-8cda-9251b1762dcf" class="code"><code>// Isto é um comentário.
+                     <pre id="c7a10193-9f9b-4349-8cda-9251b1762dcf" class="code"><code>// Isto é um comentário.
 package main
 
 import (
@@ -474,7 +472,7 @@ import (
 func main() {
 	fmt.Println("Hello, World!") // Isto é outro exemplo de comentário.
 }</code></pre>
-                     <figure id="a07725db-beb2-42a8-ab8b-13088caba3a9" class="image"><a href="images/Screenshot_from_2021-10-09_12-39-56.png"><br><img style="width:116px" src="images/Screenshot_from_2021-10-09_12-39-56.png"/></a></figure>
+                     <pre id="578cbe5c-56aa-4006-b85b-4444db78e22c" class="code"><code>Hello, World!</code></pre>
                      <hr id="9d79e4f3-7ca5-416e-84fb-6f4b1037b5f1"/>
                   </details>
                </li>
@@ -490,7 +488,7 @@ func main() {
                      <ul id="9e1bea04-6593-4345-b39a-a1e51d5e3a4a" class="bulleted-list">
                         <li style="list-style-type:disc">Qualquer coisa entre <code>/*</code> e <code>*/</code> não será executada.</li>
                      </ul>
-                     <br><pre id="9b1ea040-6e9f-40d7-8f46-c29f6448afb9" class="code"><code>package main
+                     <pre id="9b1ea040-6e9f-40d7-8f46-c29f6448afb9" class="code"><code>package main
 
 import (
 	"fmt"
@@ -502,7 +500,7 @@ func main() {
 	multilina. */
 	fmt.Println("Hello, World!")
 }</code></pre>
-                     <figure id="e3c1659e-906d-4e45-a4e5-09f8108a1c9f" class="image"><a href="images/Screenshot_from_2021-10-09_12-39-56.png"><br><img style="width:116px" src="images/Screenshot_from_2021-10-09_12-39-56.png"/></a></figure>
+                     <pre id="f9fed99d-a322-4ff1-b97a-32e1b810b755" class="code"><code>Hello, World!</code></pre>
                      <hr id="c4817cb6-09c5-4bbf-8441-1608f259617c"/>
                   </details>
                </li>
@@ -515,7 +513,7 @@ func main() {
                      <ul id="d22a0f3b-5dfe-4377-9292-914f7c91ec52" class="bulleted-list">
                         <li style="list-style-type:disc">Os comentários podem ser usados para <code>evitar a execução</code> de um código, quando estamos testando um código alternativo.</li>
                      </ul>
-                     <br><pre id="71067a8f-3566-417c-ac93-d175f47223f0" class="code"><code>package main
+                     <pre id="71067a8f-3566-417c-ac93-d175f47223f0" class="code"><code>package main
 
 import (
 	"fmt"
@@ -525,7 +523,7 @@ func main() {
 	// fmt.Println("Hello, World!")
 	fmt.Println("Olá, Mundo!")
 }</code></pre>
-                     <figure id="6d4c64b3-4bdf-42e5-84f0-c855af5cb371" class="image"><a href="images/Screenshot_from_2021-10-09_15-09-19.png"><br><img style="width:150px" src="images/Screenshot_from_2021-10-09_15-09-19.png"/></a></figure>
+                     <pre id="043a6e2b-88ba-4e66-bf36-12c1acd403a4" class="code"><code>Olá, Mundo!</code></pre>
                      <hr id="0fb07c9a-d498-4f44-a830-ab53a2c6136f"/>
                   </details>
                </li>
@@ -594,7 +592,7 @@ func main() {
                   <details open="">
                      <summary><strong>Declaração com valor inicial </strong>🆗</summary>
                      <h2 id="c2a7a18b-c3e7-4312-8b03-3f59bef4f72d" class=""><strong>Declaração com valor inicial</strong></h2>
-                     <br><pre id="686f558d-c038-45c7-abff-12e13ec630f3" class="code"><code>package main
+                     <pre id="686f558d-c038-45c7-abff-12e13ec630f3" class="code"><code>package main
 
 import (
 	"fmt"
@@ -624,7 +622,7 @@ func main() {
                      <ul id="f8a5b5bc-6b66-4350-ad86-967f4ab64146" class="bulleted-list">
                         <li style="list-style-type:disc">Se você declarar um variável mas não a inicializar, ela será automaticamente inicializada com o <code>valor zero padrão</code> do seu tipo.</li>
                      </ul>
-                     <br><pre id="85b6906c-726c-4d8f-820c-d3c2979ed060" class="code"><code>package main
+                     <pre id="85b6906c-726c-4d8f-820c-d3c2979ed060" class="code"><code>package main
 
 import (
 	"fmt"
@@ -653,7 +651,7 @@ func main() {
                      <ul id="f3d82ea0-17aa-46a2-b077-15d5429c1284" class="bulleted-list">
                         <li style="list-style-type:disc">Só é possível usando o <code>var</code>. Com <mark class="highlight-blue"><code>:=</code></mark> não dá.</li>
                      </ul>
-                     <br><pre id="ee36473b-962e-4ec0-a896-0e0bab935bd1" class="code"><code>package main
+                     <pre id="ee36473b-962e-4ec0-a896-0e0bab935bd1" class="code"><code>package main
 
 import (
 	"fmt"
@@ -685,7 +683,7 @@ func main() {
                      <ul id="65cdda23-c999-48e9-aeef-5293d88d2ccc" class="bulleted-list">
                         <li style="list-style-type:disc">A declaração com <code>:=</code> <mark class="highlight-red"><strong>não</strong></mark> permite posterior inicialização.</li>
                      </ul>
-                     <br><pre id="ee5fa6d6-9e56-4a38-b1c6-97cfbb610ac4" class="code"><code>package main
+                     <pre id="ee5fa6d6-9e56-4a38-b1c6-97cfbb610ac4" class="code"><code>package main
 
 import (
 	"fmt"
@@ -716,7 +714,7 @@ func main() {
                      <ul id="aaacda12-1ede-4219-800a-e00131a9c0dc" class="bulleted-list">
                         <li style="list-style-type:disc">Se o <code>tipo</code> for especificado, só pode declarar aquele tipo na linha.</li>
                      </ul>
-                     <br><pre id="9151b2d1-4625-41f4-a17b-2e7aba9026b0" class="code"><code>package main
+                     <pre id="9151b2d1-4625-41f4-a17b-2e7aba9026b0" class="code"><code>package main
 
 import (
 	"fmt"
@@ -829,7 +827,7 @@ func main() {
                   <details open="">
                      <summary><strong>Declaração </strong>🆗</summary>
                      <h2 id="33d5e7c6-e1a5-48aa-a7cc-00d752c5e84d" class="">Declaração</h2>
-                     <br><pre id="efaf4a8c-ce3b-42ae-91d9-301711983ff0" class="code"><code>package main
+                     <pre id="efaf4a8c-ce3b-42ae-91d9-301711983ff0" class="code"><code>package main
 
 import (
 	"fmt"
@@ -873,12 +871,11 @@ func main() {
                      <ul id="3cbe8de5-b171-48de-8b4f-221d50ef4d91" class="bulleted-list">
                         <li style="list-style-type:disc">Constantes <code>não tipadas</code>: declarada sem um tipo definido.</li>
                      </ul>
-                     <br><pre id="99b21442-ae02-49d7-8ef1-39fa34707c65" class="code"><code>// Constante tipada.
+                     <pre id="99b21442-ae02-49d7-8ef1-39fa34707c65" class="code"><code>// Constante tipada.
 const A int = 1
 // Constante não tipada.
 const B = 2
 // O compilador infere o tipo baseado no valor.</code></pre>
-                     <p id="9835ecb9-a585-479d-ada6-579441610d32" class=""></p>
                      <hr id="6c3c404a-c185-4232-b4dc-d2931f76b05a"/>
                   </details>
                </li>
@@ -891,9 +888,8 @@ const B = 2
                      <ul id="8959ef68-08be-4a16-b344-175badee34f5" class="bulleted-list">
                         <li style="list-style-type:disc">Quando uma constante é declarada, <mark class="highlight-red"><span style="border-bottom:0.05em solid">não</span></mark> é possível <code>alterar</code> o valor posteriormente.</li>
                      </ul>
-                     <br><pre id="43844c8e-ac15-46aa-8d0e-f38fa293e6c6" class="code"><code>const A = 1
+                     <pre id="43844c8e-ac15-46aa-8d0e-f38fa293e6c6" class="code"><code>const A = 1
 A = 2</code></pre>
-                     <p id="7524c2c6-3dec-4585-965a-808577a9865e" class=""></p>
                      <hr id="1380f08e-6f2f-4f6d-8eac-006cda7137fa"/>
                   </details>
                </li>
@@ -903,12 +899,11 @@ A = 2</code></pre>
                   <details open="">
                      <summary><strong>Declaração múltipla</strong></summary>
                      <h2 id="fe574615-4a0b-464a-a69f-a71cc3bea361" class="">Declaração múltipla</h2>
-                     <br><pre id="c71007a5-f019-4915-a249-ef7ace2c878b" class="code"><code>const (
+                     <pre id="c71007a5-f019-4915-a249-ef7ace2c878b" class="code"><code>const (
 	A int = 1
 	B = 2.0
 	C = "três"
 )</code></pre>
-                     <p id="0d82f455-88d0-4cd9-bf00-e45cfa34e1f8" class=""></p>
                      <hr id="ba8f7bde-366d-4a4f-8d64-4263f4fe081d"/>
                   </details>
                </li>
@@ -922,7 +917,7 @@ A = 2</code></pre>
                      <ul id="ae6cc6f0-5aef-4ccd-ac5f-cf2b5f8a171b" class="bulleted-list">
                         <li style="list-style-type:disc">Função que imprime os argumentos com seu <code>formato padrão</code></li>
                      </ul>
-                     <br><pre id="9d416699-77e1-4e6a-a48d-b2bb42833280" class="code"><code>package main
+                     <pre id="9d416699-77e1-4e6a-a48d-b2bb42833280" class="code"><code>package main
 
 import (
 	"fmt"
@@ -934,9 +929,7 @@ func main() {
 	fmt.Print(i)
 	fmt.Print(j)
 }</code></pre>
-                     <ul id="ed1f2e18-4913-4462-8bd2-4a4f85dbf12f" class="bulleted-list">
-                        <li style="list-style-type:disc"><strong>Saída:</strong> HelloWorld</li>
-                     </ul>
+                     <pre id="8c275523-9542-47e9-acbd-2ada4ae68c9c" class="code"><code>HelloWorld</code></pre>
                      <hr id="469554de-86a6-4ca5-bdfe-151d95579d6c"/>
                   </details>
                </li>
@@ -949,7 +942,7 @@ func main() {
                      <ul id="55c14a98-0152-4541-9353-2546263a9c6f" class="bulleted-list">
                         <li style="list-style-type:disc">Cria <code>novas linhas</code>.</li>
                      </ul>
-                     <br><pre id="9fd46321-7c1d-4fce-9c56-214e48dfa663" class="code"><code>package main
+                     <pre id="9fd46321-7c1d-4fce-9c56-214e48dfa663" class="code"><code>package main
 
 import (
 	"fmt"
@@ -961,12 +954,8 @@ func main() {
 	fmt.Print(i, "\n")
 	fmt.Print(j, "\n")
 }</code></pre>
-                     <ul id="e5086e43-54d9-4971-acbb-f38ad9a275b5" class="bulleted-list">
-                        <li style="list-style-type:disc"><strong>Saída:
-                           </strong>Hello
-                           World
-                        </li>
-                     </ul>
+                     <pre id="08f9ac50-8f23-4e59-aa7f-fb51a13e369b" class="code"><code>Hello
+World</code></pre>
                      <hr id="c53753e1-dab1-45bc-9844-72e97fced48b"/>
                   </details>
                </li>
@@ -976,7 +965,7 @@ func main() {
                   <details open="">
                      <summary><strong>Um Print() com várias variáveis</strong></summary>
                      <h2 id="41171d65-f000-47af-9938-11baf5d33f8f" class=""><strong>Um Print() com várias variáveis</strong></h2>
-                     <br><pre id="f29f4dd6-b101-411f-bec9-a42036e91db0" class="code"><code>package main
+                     <pre id="f29f4dd6-b101-411f-bec9-a42036e91db0" class="code"><code>package main
 
 import (
 	"fmt"
@@ -988,12 +977,8 @@ func main() {
 	fmt.Print(i, "\n", j)
 	fmt.Print(i, " ", j)
 }</code></pre>
-                     <ul id="c0d023e6-3a04-4b10-950f-8e3f6110bae5" class="bulleted-list">
-                        <li style="list-style-type:disc"><strong>Saída:</strong>
-                           Hello
-                           WorldHello World
-                        </li>
-                     </ul>
+                     <pre id="c12d61a4-8827-45db-b0a5-2de1f76f47eb" class="code"><code>Hello
+WorldHello World</code></pre>
                      <hr id="21c92bec-808d-482b-a0ff-105da511e00f"/>
                   </details>
                </li>
@@ -1006,11 +991,9 @@ func main() {
                      <ul id="5a641354-4cdf-4e4e-951a-c3ad246ffc08" class="bulleted-list">
                         <li style="list-style-type:disc">Insere um <code>espaço</code> entre as duas variáveis.</li>
                      </ul>
-                     <br><pre id="14e5090d-b743-47df-9d5f-41098b784941" class="code"><code>var i, j int = 1, 2
+                     <pre id="14e5090d-b743-47df-9d5f-41098b784941" class="code"><code>var i, j int = 1, 2
 fmt.Print(i, j)</code></pre>
-                     <ul id="d4881df9-d85b-4299-abb1-e2b93d44a186" class="bulleted-list">
-                        <li style="list-style-type:disc"><strong>Saída:</strong> 1 2</li>
-                     </ul>
+                     <pre id="e70ebcbb-1c17-496c-b458-c6c78a51c73e" class="code"><code>1 2</code></pre>
                      <hr id="51814a76-b54f-47b9-9cac-349f4fc7b398"/>
                   </details>
                </li>
@@ -1026,7 +1009,7 @@ fmt.Print(i, j)</code></pre>
                      <ul id="9be53bcc-7312-42b4-ad46-6cd50bc8d20e" class="bulleted-list">
                         <li style="list-style-type:disc">Uma <code>linha nova</code> é adicionada no final.</li>
                      </ul>
-                     <br><pre id="0dcc2434-b8ee-4d8c-b658-591f18b821d0" class="code"><code>package main
+                     <pre id="0dcc2434-b8ee-4d8c-b658-591f18b821d0" class="code"><code>package main
 
 import (
 	"fmt"
@@ -1037,9 +1020,7 @@ func main() {
 
 	fmt.Println(i, j)
 }</code></pre>
-                     <ul id="582b3d86-9d23-4e9a-a60e-c1dd0492e91e" class="bulleted-list">
-                        <li style="list-style-type:disc"><strong>Saída:</strong> Hello World</li>
-                     </ul>
+                     <pre id="94ec7a49-8e83-4bd2-b1ba-71f6dfc8e938" class="code"><code>Hello World</code></pre>
                      <hr id="aca2dc8c-6ba1-4bf2-add9-d9da5642842e"/>
                   </details>
                </li>
@@ -1058,17 +1039,13 @@ func main() {
                      <ul id="66c13f6c-f745-4d4a-848a-0c72d974ffe9" class="bulleted-list">
                         <li style="list-style-type:disc"><code>%T</code> imprime o tipo do argumento.</li>
                      </ul>
-                     <br><pre id="c493f306-eeef-4006-aba6-adad27233c7f" class="code"><code>var i string = "Hello, World!"
+                     <pre id="c493f306-eeef-4006-aba6-adad27233c7f" class="code"><code>var i string = "Hello, World!"
 var j int = 1
 
 fmt.Printf("Valor do i: %v. Tipo do i: %T.\n", i, i)
 fmt.Printf("Valor do j: %v. Tipo do j: %T.", j, j)</code></pre>
-                     <ul id="58a0c321-307d-42af-884b-64f0a700803e" class="bulleted-list">
-                        <li style="list-style-type:disc"><strong>Saída:</strong>
-                           Valor do i: Hello, World!. Tipo do i: string.
-                           Valor do j: 1. Tipo do j: int.
-                        </li>
-                     </ul>
+                     <pre id="8541fdc5-1d7c-46a5-af37-d5dd0f80fdd6" class="code"><code>Valor do i: Hello, World!. Tipo do i: string.
+Valor do j: 1. Tipo do j: int.</code></pre>
                      <hr id="89c6eb6f-5a48-4cca-87c4-e06cf49f8e28"/>
                   </details>
                </li>
@@ -1091,7 +1068,7 @@ fmt.Printf("Valor do j: %v. Tipo do j: %T.", j, j)</code></pre>
                      <ul id="bfcee552-6d72-4bf2-a498-94ce4ff6b502" class="bulleted-list">
                         <li style="list-style-type:disc"><code>%%</code> imprime %.</li>
                      </ul>
-                     <br><pre id="770a1e93-04c0-494c-9d8d-9a147e8eb955" class="code"><code>var i = 100
+                     <pre id="770a1e93-04c0-494c-9d8d-9a147e8eb955" class="code"><code>var i = 100
 var j = "Oi"
 
 fmt.Printf("%v\n", i)
@@ -1102,21 +1079,122 @@ fmt.Printf("%v%%\n", i)
 fmt.Printf("%v\n", j)
 fmt.Printf("%#v\n", j)
 fmt.Printf("%T\n", j)</code></pre>
-                     <ul id="4ad2877f-3923-4603-b060-1e6bacaf658c" class="bulleted-list">
-                        <li style="list-style-type:disc"><strong>Saída:</strong>
-                           100
-                           100
-                           int
-                           100%
-                           Oi
-                           "Oi"
-                           string
-                        </li>
-                     </ul>
+                     <pre id="7e8f3029-bd10-479c-86da-f6772a4f12d0" class="code"><code>100
+100
+int
+100%
+Oi
+"Oi"
+string</code></pre>
                      <hr id="a3ea8e1f-61bb-44f0-854b-cf1f08ec6a91"/>
                   </details>
                </li>
             </ul>
+            <ul id="fe976aaa-0bee-42be-8d7c-cbbf33d790de" class="toggle">
+               <li>
+                  <details open="">
+                     <summary><strong>Verbos de formatação de inteiros</strong></summary>
+                     <h2 id="22d9e095-6c8f-4eea-a5b4-046a5600970d" class="">Verbos de formatação de inteiros</h2>
+                     <ul id="7d37d4ef-82b0-4825-b540-8724de2485a2" class="bulleted-list">
+                        <li style="list-style-type:disc">%b é base 2.</li>
+                     </ul>
+                     <ul id="a895c986-3e23-475f-81e3-8e0f19095cde" class="bulleted-list">
+                        <li style="list-style-type:disc">%d é base 10.</li>
+                     </ul>
+                     <ul id="5ca0b6f6-0bb0-46ca-bfc4-fc2f10243df3" class="bulleted-list">
+                        <li style="list-style-type:disc">%+d é base 10 e mostra o sinal (+ e -).</li>
+                     </ul>
+                     <ul id="3b7546c8-9e2b-4d79-89ca-906a8f283c15" class="bulleted-list">
+                        <li style="list-style-type:disc">%o é base 8.</li>
+                     </ul>
+                     <ul id="d5e8d63e-2a8f-4e12-bc2a-f439e3024bea" class="bulleted-list">
+                        <li style="list-style-type:disc">%O é base 8 com 0o.</li>
+                     </ul>
+                     <ul id="c7552f38-406b-4455-9cef-a253810517fe" class="bulleted-list">
+                        <li style="list-style-type:disc">%x é base 16 e minúscula.</li>
+                     </ul>
+                     <ul id="a2a6eb6c-c633-433a-880d-9e67d7a6ffc2" class="bulleted-list">
+                        <li style="list-style-type:disc">%X é base 16 e maiúscula.</li>
+                     </ul>
+                     <ul id="ec457598-7898-4bc4-9b53-c9e29107d746" class="bulleted-list">
+                        <li style="list-style-type:disc">%#x é base 16 com 0x.</li>
+                     </ul>
+                     <ul id="d27b11ee-9742-49b5-8c27-dffb80937ab5" class="bulleted-list">
+                        <li style="list-style-type:disc">%4d é um bloco com com 4 espaços e alinhamento à direita.</li>
+                     </ul>
+                     <ul id="fb5e3bc4-62e6-4c91-936f-401b234063de" class="bulleted-list">
+                        <li style="list-style-type:disc">%-4d é um bloco com 4 espaços e alinhamento à esquerda.</li>
+                     </ul>
+                     <ul id="678ad425-ca41-4597-9c29-a57c9657b003" class="bulleted-list">
+                        <li style="list-style-type:disc">%04d é um bloco com 4 espaços (preenchidos com zero se vazios) e alinhamento à direita.</li>
+                     </ul>
+                     <pre id="001f293e-8b0c-4159-b4e2-9c26d7986a76" class="code"><code>q := 15
+fmt.Printf("%b\n", q)
+fmt.Printf("%d\n", q)
+fmt.Printf("%+d\n", q)
+fmt.Printf("%o\n", q)
+fmt.Printf("%O\n", q)
+fmt.Printf("%x\n", q)
+fmt.Printf("%X\n", q)
+fmt.Printf("%#x\n", q)
+fmt.Printf("%#X\n", q)
+fmt.Printf("%4d\n", q)
+fmt.Printf("%-4d\n", q)
+fmt.Printf("%04d\n", q)</code></pre>
+                     <pre id="3b253965-54dd-4704-b6d9-c82a4cd4ad5b" class="code"><code>1111
+15
++15
+17
+0o17
+f
+F
+0xf
+0XF
+  15
+15
+0015</code></pre>
+                     <hr id="181e1fd0-877f-4056-81ea-276870abbac0"/>
+                  </details>
+               </li>
+            </ul>
+            <ul id="5b216d11-bc52-4fd6-80eb-b738f596f555" class="toggle">
+               <li>
+                  <details open="">
+                     <summary><strong>Verbos de formatação de strings</strong></summary>
+                     <h2 id="1c021330-3139-4d1b-8676-b9ad39929839" class="">Verbos de formatação de strings</h2>
+                     <ul id="a67f8fc6-a250-4536-88b8-6f35e4288c0d" class="bulleted-list">
+                        <li style="list-style-type:disc"><code>%s</code> mostra o valor da string.</li>
+                     </ul>
+                     <ul id="7f9533fb-4606-4ad4-9836-7d228386327c" class="bulleted-list">
+                        <li style="list-style-type:disc"><code>%q</code> mostra a string entre aspas duplas.</li>
+                     </ul>
+                     <ul id="e48d37f4-87ca-404f-9fd4-9bb801c0766e" class="bulleted-list">
+                        <li style="list-style-type:disc"><code>%8s</code> mostra um bloco de 8 espaços com string alinhada à direta.</li>
+                     </ul>
+                     <ul id="79b638be-af1b-4065-a10e-82a901a5c7a5" class="bulleted-list">
+                        <li style="list-style-type:disc"><code>%-8s</code> mostra um bloco de 8 espaços com a string alinhada à esquerda.</li>
+                     </ul>
+                     <ul id="55a9efd2-bfe7-4b31-8830-0648d51600c9" class="bulleted-list">
+                        <li style="list-style-type:disc"><code>%x</code> mostra a string em hexadecimal sem espaços entre as letras</li>
+                     </ul>
+                     <ul id="e94cdafb-e990-4478-8941-20ba93617bca" class="bulleted-list">
+                        <li style="list-style-type:disc"><code>% x</code> mostra a string em hexadecimal com espaços entre as letras.</li>
+                     </ul>
+                     <pre id="0fa89f49-70a3-4e75-a1bd-f955e20e4084" class="code"><code>h := "Hello"
+fmt.Printf("%s\n", h)
+fmt.Printf("%8s\n", h)
+fmt.Printf("%-8s\n", h)
+fmt.Printf("%x\n", h)
+fmt.Printf("% x", h)</code></pre>
+                     <pre id="06d6de2d-e9e5-44d8-9d96-b81572ae76aa" class="code"><code>Hello
+   Hello
+Hello
+48656c6c6f
+48 65 6c 6c 6f</code></pre>
+                  </details>
+               </li>
+            </ul>
+            <hr id="89f900a0-ade0-4f3c-b73e-43b586ea2a13"/>
          </div>
       </article>
    </body>
